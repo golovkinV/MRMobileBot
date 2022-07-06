@@ -1,0 +1,78 @@
+INFO 2022-07-06 10:01:52,017 autoreload 7 281473809038408 Watching for file changes with StatReloader
+INFO 2022-07-06 10:01:52,175 utils 1 281473291504712 Command handlers check!
+INFO 2022-07-06 10:01:52,176 commands 1 281473291504712 Command handlers check!
+DEBUG 2022-07-06 10:01:52,178 dispatcher 1 281473291504712 Setting singleton dispatcher as <telegram.ext.dispatcher.Dispatcher object at 0xffff988f4ba0>
+DEBUG 2022-07-06 10:01:52,180 bot 1 281473291504712 Entering: get_me
+DEBUG 2022-07-06 10:01:52,514 bot 1 281473291504712 {'can_read_all_group_messages': False, 'first_name': 'MRMobileBot', 'username': 'mr_mobile_bot', 'can_join_groups': True, 'supports_inline_queries': False, 'is_bot': True, 'id': 5363836025}
+DEBUG 2022-07-06 10:01:52,519 bot 1 281473291504712 Exiting: get_me
+INFO 2022-07-06 10:01:52,522 base 1 281473291504712 Scheduler started
+DEBUG 2022-07-06 10:01:52,525 base 1 281473238567712 Looking for jobs to run
+DEBUG 2022-07-06 10:01:52,528 base 1 281473238567712 No jobs; waiting until a job is added
+DEBUG 2022-07-06 10:01:52,526 bot 1 281473291504712 Entering: get_me
+DEBUG 2022-07-06 10:01:52,789 bot 1 281473291504712 {'can_read_all_group_messages': False, 'first_name': 'MRMobileBot', 'username': 'mr_mobile_bot', 'can_join_groups': True, 'supports_inline_queries': False, 'is_bot': True, 'id': 5363836025}
+DEBUG 2022-07-06 10:01:52,799 bot 1 281473291504712 Exiting: get_me
+DEBUG 2022-07-06 10:01:52,805 updater 1 281473236605728 Bot:5363836025:dispatcher - started
+DEBUG 2022-07-06 10:01:52,806 updater 1 281473235544864 Bot:5363836025:updater - started
+DEBUG 2022-07-06 10:01:52,814 updater 1 281473235544864 Updater thread started (polling)
+DEBUG 2022-07-06 10:01:52,812 dispatcher 1 281473236605728 Dispatcher started
+DEBUG 2022-07-06 10:01:52,806 updater 1 281473291504712 Waiting for Dispatcher and polling to start
+DEBUG 2022-07-06 10:01:52,818 updater 1 281473235544864 Start network loop retry bootstrap del webhook
+DEBUG 2022-07-06 10:01:52,826 updater 1 281473235544864 Deleting webhook
+DEBUG 2022-07-06 10:01:52,829 bot 1 281473235544864 Entering: delete_webhook
+DEBUG 2022-07-06 10:01:52,912 bot 1 281473235544864 True
+DEBUG 2022-07-06 10:01:52,918 bot 1 281473235544864 Exiting: delete_webhook
+DEBUG 2022-07-06 10:01:52,922 updater 1 281473235544864 Bootstrap done
+DEBUG 2022-07-06 10:01:52,926 updater 1 281473235544864 Start network loop retry getting Updates
+DEBUG 2022-07-06 10:01:52,929 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:02:43,109 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:02:43,117 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:02:43,123 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:02:43,130 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:03:33,223 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:03:33,234 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:03:33,240 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:03:33,245 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:04:23,344 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:04:23,351 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:04:23,356 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:04:23,360 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:05:13,453 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:05:13,459 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:05:13,465 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:05:13,470 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:06:03,560 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:06:03,567 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:06:03,573 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:06:03,578 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:06:53,668 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:06:53,676 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:06:53,684 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:06:53,689 bot 1 281473235544864 Entering: get_updates
+DEBUG 2022-07-06 10:07:43,784 bot 1 281473235544864 No new updates found.
+DEBUG 2022-07-06 10:07:43,792 bot 1 281473235544864 []
+DEBUG 2022-07-06 10:07:43,798 bot 1 281473235544864 Exiting: get_updates
+DEBUG 2022-07-06 10:07:43,804 bot 1 281473235544864 Entering: get_updates
+INFO 2022-07-06 10:08:05,944 updater 1 281473291504712 Received signal 15 (SIGTERM), stopping...
+INFO 2022-07-06 10:08:05,947 base 1 281473291504712 Scheduler has been shut down
+DEBUG 2022-07-06 10:08:05,948 base 1 281473238567712 Looking for jobs to run
+DEBUG 2022-07-06 10:08:05,950 base 1 281473238567712 No jobs; waiting until a job is added
+DEBUG 2022-07-06 10:08:05,952 updater 1 281473291504712 Stopping Updater and Dispatcher...
+DEBUG 2022-07-06 10:08:05,953 updater 1 281473291504712 Requesting Dispatcher to stop...
+DEBUG 2022-07-06 10:08:06,928 dispatcher 1 281473236605728 orderly stopping
+DEBUG 2022-07-06 10:08:06,935 dispatcher 1 281473236605728 Dispatcher thread stopped
+DEBUG 2022-07-06 10:08:06,942 updater 1 281473236605728 Bot:5363836025:dispatcher - ended
+DEBUG 2022-07-06 10:08:06,988 dispatcher 1 281473291504712 Waiting for async thread 1/4 to end
+DEBUG 2022-07-06 10:08:06,989 dispatcher 1 281473234484000 Closing run_async thread Bot:5363836025:worker:670165ab-7b58-4520-a26f-7b54d699eddd_0/4
+DEBUG 2022-07-06 10:08:06,989 dispatcher 1 281473232362272 Closing run_async thread Bot:5363836025:worker:670165ab-7b58-4520-a26f-7b54d699eddd_2/4
+DEBUG 2022-07-06 10:08:06,989 dispatcher 1 281473233423136 Closing run_async thread Bot:5363836025:worker:670165ab-7b58-4520-a26f-7b54d699eddd_1/4
+DEBUG 2022-07-06 10:08:06,989 dispatcher 1 281473231301408 Closing run_async thread Bot:5363836025:worker:670165ab-7b58-4520-a26f-7b54d699eddd_3/4
+DEBUG 2022-07-06 10:08:07,002 dispatcher 1 281473291504712 async thread 1/4 has ended
+DEBUG 2022-07-06 10:08:07,009 dispatcher 1 281473291504712 Waiting for async thread 2/4 to end
+DEBUG 2022-07-06 10:08:07,012 dispatcher 1 281473291504712 async thread 2/4 has ended
+DEBUG 2022-07-06 10:08:07,015 dispatcher 1 281473291504712 Waiting for async thread 3/4 to end
+DEBUG 2022-07-06 10:08:07,017 dispatcher 1 281473291504712 async thread 3/4 has ended
+DEBUG 2022-07-06 10:08:07,020 dispatcher 1 281473291504712 Waiting for async thread 4/4 to end
+DEBUG 2022-07-06 10:08:07,022 dispatcher 1 281473291504712 async thread 4/4 has ended
+DEBUG 2022-07-06 10:08:07,024 updater 1 281473291504712 Waiting for Bot:5363836025:dispatcher thread to end
+DEBUG 2022-07-06 10:08:07,026 updater 1 281473291504712 Bot:5363836025:dispatcher thread has ended
+DEBUG 2022-07-06 10:08:07,028 updater 1 281473291504712 Waiting for Bot:5363836025:updater thread to end

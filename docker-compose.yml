@@ -2,15 +2,24 @@ version: "3.9"
 
 services:
   web:
-    build: .
+    build: ./bot
     container_name: web_bot
-    command: bash -c "python manage.py runserver 0.0.0.0:8000"
+    command: python manage.py runserver 0.0.0.0:8000
     volumes:
-      - .:/code
+      - ./bot/:/code
     ports:
       - 8000:8000
     environment:
       - DJANGO_DEBUG='True'
     env_file:
       - ./.env.dev
-    entrypoint: /entrypoint.sh
+  bot:
+    build: ./bot
+    container_name: tg_mr_bot
+    command: python run_pooling.py
+    volumes:
+      - ./bot/:/code
+    env_file:
+      - ./.env.dev
+    depends_on:
+      - web
